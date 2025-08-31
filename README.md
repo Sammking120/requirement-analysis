@@ -136,8 +136,6 @@ Below is the use case diagram for the booking system:
 
 ![Booking System Use Case Diagram](images/alx-booking-uc.png)
 
-*(The diagram should be designed using PlantUML or Draw.io, exported as `alx-booking-uc.png`, and placed in the repository.)*
-
 ---
 
 ## Acceptance Criteria
